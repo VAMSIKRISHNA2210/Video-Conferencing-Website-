@@ -2,7 +2,7 @@
 
 It is a web-based video conferencing application is a digital platform that enables users to communicate with each other through audio and video interactions over the internet.
 
-Simple group video chat app built using plain HTML, CSS, JavaScript, and the Agora SDK
+Simple group video chat app built using plain HTML, CSS, JavaScript
 
 Let's break down the functionalities you've mentioned: chat, video interaction, and audio interaction.
 1. Chat Functionality:
